@@ -18,12 +18,13 @@ export default function AboutPage() {
                     object-cover
                 "
             />
-            <p className="text-yellow-100 text-2xl max-w-4xl">
-                I'm Karl a 3D artists and concept artist. I am a passionate and motivated Concept Artist with a vast knowledge on visual storytelling and design.
+
+            <p className="text-yellow-100 text-2xl max-w-4xl mt-6 leading-relaxed">
+                I&rsquo;m Karl, a 3D artist and concept artist. I am a passionate and motivated Concept Artist with a vast knowledge of visual storytelling and design.
                 As a new graduate, I have honed my skills in designing characters and environments, 2D and 3D art with the use of my academic projects and personal artwork.
-                I’m eager to give life to many imaginations and contribute to creative teams that prioritize imaginations and world-building.
-                My attention to detail, adaptability, and collaborative mindset, I’m excited to grow as an artist and refine my craft to meet industry standards.
+                I&rsquo;m eager to give life to many imaginations and contribute to creative teams that prioritize imagination and world-building.
+                With my attention to detail, adaptability, and collaborative mindset, I&rsquo;m excited to grow as an artist and refine my craft to meet industry standards.
             </p>
         </div>
-    )
+    );
 }
