@@ -20,7 +20,7 @@
 }
 
 body {
-    background: url("works/Liminal.png") no-repeat center center fixed;
+    background: url("/Projects/Liminal.png") no-repeat center center fixed;
     background-size: cover;
     color: yellow;
     font-family: Heselna;
