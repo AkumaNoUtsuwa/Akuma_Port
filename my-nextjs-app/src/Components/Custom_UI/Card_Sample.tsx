@@ -1,4 +1,8 @@
-import { WorkCard } from "@/app/page";
+type WorkCard = {
+    title: string;
+    description: string;
+    image: string;
+};
 
 export default function CardSample({ title, description, image }: WorkCard) {
     return (
